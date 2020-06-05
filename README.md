@@ -35,3 +35,4 @@ Développer un modèle prédictif de la donnée « valeur foncière » pour les ventes 
  https://static.data.gouv.fr/resources/demandes-de-valeurs-foncieres/20191220-102114/notice-descriptive-du-fichier-dvf.pdf
  
  
+ 
